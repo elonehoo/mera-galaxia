@@ -1,10 +1,10 @@
 lockfileVersion: 5.3
 
 specifiers:
-  vite: 2.9.14
+  vite: 2.9.15
 
 devDependencies:
-  vite: 2.9.14
+  vite: 2.9.15
 
 packages:
 
@@ -291,8 +291,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /vite/2.9.14:
-    resolution: {integrity: sha512-P/UCjSpSMcE54r4mPak55hWAZPlyfS369svib/gpmz8/01L822lMPOJ/RYW6tLCe1RPvMvOsJ17erf55bKp4Hw==}
+  /vite/2.9.15:
+    resolution: {integrity: sha512-fzMt2jK4vQ3yK56te3Kqpkaeq9DkcZfBbzHwYpobasvgYmP2SoAr6Aic05CsB4CzCZbsDv4sujX3pkEGhLabVQ==}
     engines: {node: '>=12.2.0'}
     hasBin: true
     peerDependencies:
